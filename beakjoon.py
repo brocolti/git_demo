@@ -10,6 +10,7 @@ def solve(data: str) -> str:
     
     result = str(len(remainders))
     print("Hello Will")
+    print("이게 메인이야")
     return result
 
 
