@@ -4,7 +4,7 @@
 
 import sys
 
-def solve(data: str) -> int:
+def solve(data: str) -> str:
 
     remainders = set(int(x) % 42 for x in data.splitlines())
     
