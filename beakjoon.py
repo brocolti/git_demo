@@ -9,8 +9,8 @@ def solve(data: str) -> str:
     remainders = set(int(x) % 42 for x in data.splitlines())
     
     result = str(len(remainders))
-    print("Hello Will")
-    print("이게 메인이야")
+    print("Hello Sunhak")
+    print("This is real")
     return result
 
 
