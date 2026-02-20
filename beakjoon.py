@@ -9,7 +9,6 @@ def solve(data: str) -> str:
     remainders = set(int(x) % 42 for x in data.splitlines())
     
     result = str(len(remainders))
-    print("Hello World")
     return result
 
 
