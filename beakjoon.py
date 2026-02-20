@@ -10,6 +10,7 @@ def solve(data: str) -> str:
     
     result = str(len(remainders))
     print("Hello Sunhak")
+    print("This is real")
     return result
 
 
